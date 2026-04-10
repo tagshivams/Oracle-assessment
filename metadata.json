@@ -1,0 +1,5 @@
+{
+  "name": "Oracle FMB Assessment Tool",
+  "description": "Deep architectural analysis and issue detection for Oracle Form Binary (.fmb) files.",
+  "requestFramePermissions": []
+}
